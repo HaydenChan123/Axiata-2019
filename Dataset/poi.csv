@@ -1,0 +1,680 @@
+Category,SubCategory,Latitude,Longitude,POIName
+amenity,cafe,2.924346,101.639315,Poolside Cafe
+amenity,community_centre,2.932361,101.647073,Dewan Masjid Raja Haji Fisabilillah
+amenity,kindergarten,2.918134,101.63863,SK Cyberjaya
+amenity,parking,2.90738,101.65584,Cyberview Solar Farm Car Park
+amenity,parking,2.930377,101.641317,Faculty of management (FOM) Staff Car Park @ MMU Cyberjaya
+amenity,parking,2.930393,101.641363,Faculty of management (FOM) Staff Car Park @ MMU Cyberjaya
+amenity,parking,2.928289,101.64091,FCI Parking
+amenity,parking,2.928292,101.640774,FIT Parking
+amenity,parking,2.924379,101.64565,Hostel Parking
+amenity,parking,2.925514,101.645384,Hostel Parking
+amenity,parking,2.924766,101.643161,Hostel Parking
+amenity,parking,2.925176,101.645807,Hostel Parking
+amenity,parking,2.925427,101.641169,Multimedia University Parking
+amenity,parking,2.918913,101.639491,Parking
+amenity,parking,2.918943,101.639407,Parking Area
+amenity,parking,2.927529,101.640152,University Parking
+amenity,parking,2.925997,101.643795,
+amenity,place_of_worship,2.932377,101.647066,Dewan Masjid Raja Haji Fisabilillah
+amenity,place_of_worship,2.918945,101.638927,Surau Smk cyberjaya
+amenity,restaurant,2.920744,101.650925,Al-Qasr Restaurant
+amenity,restaurant,2.926849,101.651015,Culinary Pleasure International Restaurant & Luxury Catering
+amenity,restaurant,2.915291,101.650597,Hammurabi Restaurant
+amenity,restaurant,2.917096,101.649808,Istanbul Kabab
+amenity,restaurant,2.917854,101.649467,Julio's Lounge
+amenity,restaurant,2.91528,101.650824,Restoran Al-Nazmaju
+amenity,restaurant,2.924919,101.651027,Restoran Makang
+amenity,restaurant,2.923005,101.651451,Saba Restaurant Cyberjaya
+amenity,restaurant,2.926038,101.65153,Salam Noodles
+amenity,restaurant,2.924086,101.656297,TOKYO LUNCH
+amenity,restaurant,2.924871,101.651014,Traskun Restaurant
+amenity,restaurant,2.918541,101.631394,ULAM dan SUP
+amenity,school,2.926153,101.6303," SJK (C) Union, Cyberjaya "
+amenity,university,2.935897,101.655374,Universiti Islam Malaysia
+office,company,2.921199,101.657462,Dell Asia Pacific Sdn. Bhd.
+office,company,2.907782,101.648272,DXC Global Center - IT/Finance Building
+office,company,2.924318,101.654466,IBM Client Innovation Centre Malaysia Sdn Bhd
+office,company,2.914651,101.657766,Tech Mahindra ICT Services ( Malaysia ) SDN. BHD.
+shop,convenience,2.915794,101.650276,7 Eleven
+shop,convenience,2.924395,101.637261,7-Eleven
+shop,supermarket,2.923315,101.662815,KK Super Mart Cyberjaya Shaftsbury Square SSQ
+shop,supermarket,2.919734,101.636314,Village Grocer Tamarind Square
+shop,sport,2.918038,101.64944,GO! Cyberjaya Cycling & Hobby Store
+office,company,2.918469,101.655356,Bank Negara Malaysia Cyberjaya
+amenity,bank,2.924999,101.661917,United Overseas Bank
+leisure,fitness_centre,2.922214,101.650941,Celebrity Fitness - Dpulze
+tourism,hotel,2.922014,101.660537,Shaftsbury Serviced Suites and Hotel
+tourism,hotel,2.926676,101.651427,Z Hotel
+amenity,parking,2.928245,101.640864,FCI Parking
+amenity,restaurant,2.920948,101.656303,myBurgerLab Cyberjaya
+amenity,restaurant,2.92192,101.65076,Nandos
+amenity,restaurant,2.921948,101.650736,Nandos
+amenity,restaurant,2.921957,101.650755,Nandos
+amenity,fast_food,2.923218,101.663404,Pizza Hut Restaurant
+amenity,cafe,2.908775,101.647993,San Francisco Coffee
+amenity,cafe,2.921837,101.651155,The Coffee Bean & Tea Leaf
+amenity,restaurant,2.923367,101.661498,TapMy Comfort Food Restaurant (Rooftop Pan Mee)pers Cafe Cyberjaya
+amenity,cafe,2.923268,101.662875,Tappers Cafe Cyberjaya
+amenity,restaurant,2.92207,101.651618,The Chicken Rice Shop
+amenity,cafe,2.923431,101.660898,Tealive
+amenity,cafe,2.921856,101.651157,The Coffee Bean & Tea Leaf
+amenity,place_of_worship,2.932053,101.647778,Masjid Raja Haji Fisabilillah
+amenity,place_of_worship,2.924312,101.643045,Surau Al Hidayah MMU
+amenity,restaurant,2.923167,101.663189,Mazaj Restaurant
+amenity,fuel,2.935973,101.661189,Petronas Persiaran APEC
+shop,books,2.919885,101.637605,BookXcess
+shop,hairdresser,2.915349,101.650277,New Look Saloon
+shop,supermarket,2.922216,101.634835,Gem In Mall Cyberjaya
+office,company,2.92508,101.662145,Shell Information Technology International Sdn. Bhd.
+office,company,2.926056,101.663322,amIT Global Solutions Sdn Bhd
+office,company,2.924585,101.657102,Blithesoft Sdn. Bhd.
+office,company,2.908542,101.655347,Logicalis Asia Pacific MSC Sdn. Bhd.
+office,company,2.925073,101.651286,MERP Technologies Sdn Bhd
+office,company,2.919867,101.656467,Mindteck Software Malaysia Sdn. Bhd.
+office,company,2.926663,101.651469,Mysoft Corporation Sdn Bhd (Cyberjaya HQ)
+office,company,2.926825,101.656214,Saffron Info Systems Sdn. Bhd.
+office,company,2.926788,101.656198,Saffron Info Systems Sdn. Bhd.
+office,company,2.926657,101.651342,Mr. Accounting / ERP MySoft
+office,company,2.925034,101.66187,Composites Technology Research Malaysia Sdn Bhd
+office,company,2.925094,101.651198,Infobip Asia Pacific
+office,company,2.92612,101.663284,IX Telecom
+tourism,apartment,2.93697,101.661849,The Place at Cyberjaya
+tourism,guest_house,2.919131,101.65688,Cybersquare Cyberjaya
+tourism,hostel,2.923187,101.634525,The Eagle Nest Ville
+amenity,university,2.920211,101.656289,Cyberjaya University Of Medical Science
+amenity,university,2.940082,101.662696,Limkokwing University
+amenity,university,2.927917,101.641936,Multimedia University (Mmu)
+amenity,school,2.91961,101.63841,Srk Cyberjaya 1
+amenity,restaurant,2.923204,101.663181,Kush Vegetarian Restaurant
+amenity,restaurant,2.922269,101.650535,Padi Restaurant
+amenity,cafe,2.927831,101.643022,Tau Cafe
+amenity,place_of_worship,2.924349,101.643043,Mmu Mosque
+amenity,fuel,2.9328833,101.6792677,Shell Presinct 8 Putrajaya
+amenity,parking,2.9297021,101.6732642,
+amenity,fire_station,2.9327158,101.6735886,Balai Bomba & Penyelamat Putrajaya
+amenity,fast_food,2.9168261,101.6498389,Dominos
+amenity,parking,2.9265467,101.6430717,Faculty Parking
+amenity,parking,2.9247556,101.6431592,Hostel Parking
+amenity,parking,2.925503,101.6411726,University Parking
+amenity,parking,2.9273765,101.6410733,University Parking
+amenity,parking,2.9275493,101.6400984,University Parking
+amenity,parking,2.9281972,101.6408969,University Parking
+amenity,parking,2.9260074,101.6437909,
+amenity,restaurant,2.9152403,101.6508942,Al-Naz Maju
+amenity,parking,2.9243649,101.6456517,Hostel Parking
+amenity,parking,2.9251664,101.6458129,Hostel Parking
+amenity,parking,2.9255076,101.6453906,Hostel Parking
+amenity,parking,2.9347151,101.6455765,
+amenity,bus_station,2.9313243,101.6699002,Putrajaya Sentral
+power,tower,2.9533335,101.6465776,
+power,tower,2.9535414,101.6465641,
+power,tower,2.9538379,101.6482122,
+power,tower,2.953886,101.6475953,
+power,tower,2.9539919,101.6479057,
+power,tower,2.9542794,101.6441898,
+power,tower,2.9544727,101.6442225,
+power,tower,2.9548023,101.6509202,
+power,tower,2.9550207,101.6508868,
+shop,convenience,2.9485339,101.618835,7-Eleven
+amenity,university,2.9362018,101.6550509,Universiti Islam Malaysia
+power,portal,2.9533842,101.647811,
+power,portal,2.9534598,101.6480408,
+amenity,cafe,2.9069676,101.6750533,Putrajaya
+highway,bus_stop,2.9305036,101.6724482,
+amenity,atm,2.9330144,101.6792529,
+amenity,atm,2.9330545,101.6792342,
+amenity,fountain,2.9092865,101.6555983,
+shop,supermarket,2.9412982,101.6129399,CS BROTHERS
+amenity,restaurant,2.9241269,101.6562701,TOKYO LUNCH
+amenity,taxi,2.9316183,101.6699861,
+amenity,restaurant,2.9004217,101.669734,
+power,tower,2.8821064,101.6350307,
+power,tower,2.8843985,101.6468895,
+power,tower,2.884466,101.6449948,
+power,tower,2.8845617,101.6413504,
+power,tower,2.8846706,101.6372126,
+power,tower,2.8847242,101.6358615,
+power,tower,2.8850758,101.6493665,
+power,tower,2.8855989,101.6512577,
+power,tower,2.887222,101.6508354,
+power,tower,2.8908979,101.6494675,
+power,tower,2.8926179,101.6492499,
+power,tower,2.894439,101.6490374,
+power,tower,2.8954277,101.6489795,
+power,tower,2.8954755,101.6503231,
+power,tower,2.8955157,101.6515435,
+power,tower,2.8955767,101.6531033,
+power,tower,2.8956154,101.6543396,
+power,tower,2.8970465,101.654296,
+power,tower,2.8985056,101.6542425,
+power,tower,2.9000405,101.6541867,
+power,tower,2.9013813,101.6541338,
+power,tower,2.90286,101.6540705,
+power,tower,2.9041868,101.6539887,
+power,tower,2.9055671,101.653919,
+power,tower,2.9070799,101.6538381,
+power,tower,2.9081438,101.653743,
+power,tower,2.9094559,101.6536525,
+power,tower,2.9107399,101.6535654,
+power,tower,2.9121073,101.6534682,
+power,tower,2.9130472,101.6533991,
+power,tower,2.9143801,101.6533021,
+power,tower,2.9156552,101.6532035,
+power,tower,2.9170624,101.6530987,
+power,tower,2.9184491,101.6529919,
+power,tower,2.9196704,101.6529059,
+power,tower,2.9209559,101.6528103,
+power,tower,2.9222728,101.6527061,
+power,tower,2.9235075,101.6526127,
+power,tower,2.9248931,101.652554,
+power,tower,2.9262383,101.6525197,
+power,tower,2.9277244,101.652468,
+power,tower,2.9293007,101.6524463,
+power,tower,2.9301528,101.6524498,
+power,tower,2.9316567,101.6525124,
+power,tower,2.9330508,101.652586,
+power,tower,2.934413,101.6526464,
+power,tower,2.9356075,101.6526723,
+power,tower,2.9368824,101.6526783,
+power,tower,2.9383452,101.6526799,
+power,tower,2.9395755,101.6526935,
+power,tower,2.9401822,101.6515485,
+power,tower,2.9409127,101.6501894,
+power,tower,2.942775,101.6488779,
+power,tower,2.9449389,101.6480733,
+power,tower,2.946527,101.6487481,
+power,tower,2.9496757,101.6474972,
+power,tower,2.9529336,101.6462141,
+power,tower,2.953966,101.6436684,
+highway,bus_stop,2.9303703,101.6727017,
+amenity,community_centre,2.9320033,101.6470621,Dewan Masjid Raja Haji Fisabilillah
+shop,bakery,2.9451423,101.6136399,Zawara
+amenity,toilets,2.9256409,101.6130296,
+office,government,2.8967175,101.6676625,PTPTN Putrajaya
+tourism,information,2.9387239,101.6788727,Fasa 12 Presint 9
+shop,hardware,2.9469156,101.6177998,Tuck Heng Hardware Trading
+amenity,place_of_worship,2.9255554,101.6511716,yasmin cyberjaya
+amenity,restaurant,2.9186698,101.6314496,Restaurant Erra
+tourism,guest_house,2.9186354,101.6571806,CyberSquare
+office,government,2.9251469,101.6803101,synerflux
+amenity,fuel,2.9019811,101.6156157,Petron
+amenity,fuel,2.9016935,101.6159245,Shell
+amenity,cafe,2.8840401,101.6631765,Cendol Durian Borhan
+amenity,restaurant,2.8860544,101.6616007,Y Tomyam Seafood
+amenity,restaurant,2.885975,101.6614881,Dengkil Food Paradise
+amenity,place_of_worship,2.8826279,101.6640831,Surau Desa Timah Langat
+amenity,cafe,2.924322,101.6393065,Poolside Cafe
+highway,bus_stop,2.9334746,101.6754557,
+amenity,parking,2.9009682,101.6705943,
+amenity,parking,2.9009233,101.6707477,
+leisure,marina,2.9013718,101.6707774,Marina Putrajaya
+amenity,university,2.8989975,101.6724599,Heriot Watt University Malaysia
+amenity,restaurant,2.896161,101.6797268,Ikan Bakar Seri Empangan Putrajaya
+leisure,sports_centre,2.8885998,101.6680928,Kompleks Sukan Mendaki Putrajaya
+leisure,sports_centre,2.8891811,101.6654539,Kompleks Sukan Luncur Putrajaya
+amenity,parking,2.925283,101.6805484,
+amenity,restaurant,2.9261563,101.6784948,Restoran Medina
+shop,laundry,2.9260014,101.6788078,LaundryBar
+shop,maternity,2.925906,101.6787462,PumpOnTheGo
+amenity,restaurant,2.9258292,101.6789241,Shahnaz Maju
+amenity,cafe,2.925019,101.6805456,PappaRich
+amenity,fast_food,2.9250393,101.680448,Marrybrown
+amenity,restaurant,2.9248746,101.6509905,Traskun Pakistani Restaurant
+amenity,place_of_worship,2.9320825,101.648441,Masjid Raja Haji Fisabilillah
+tourism,apartment,2.9372716,101.6623879,The Place@Cyberjaya
+highway,bus_stop,2.9221504,101.6341244,University bus stop
+leisure,park,2.9268967,101.6445427,Parkng area
+amenity,place_of_worship,2.918907,101.6389375,Surau Smk cyberjaya
+office,yes,2.9193234,101.6385372,Office Sk Cyberjaya
+amenity,kindergarten,2.9197396,101.6381062,Kindergarten Sk Cyberjaya
+amenity,parking,2.9189019,101.6394109,Parking area
+highway,bus_stop,2.9190956,101.6399734,
+office,yes,2.9192475,101.6393544,
+office,yes,2.9194924,101.6394513,
+amenity,parking,2.9188878,101.6397542,
+amenity,restaurant,2.925101,101.6509693,Sysaban Restaurant
+amenity,restaurant,2.925916,101.6514764,Salam Noodles
+amenity,restaurant,2.9264083,101.6508983,Sultan Cuisine Restaurant
+amenity,restaurant,2.9227942,101.6512804,Sabaa Restaurant
+amenity,restaurant,2.9205538,101.6514072,Alqasr Restaurant
+amenity,fuel,2.9171405,101.6521325,Shell
+amenity,restaurant,2.9171681,101.6498595,Julio's Lounge Restaurant
+amenity,restaurant,2.9169253,101.6499522,Istanbul Palace Restaurant
+amenity,crematorium,2.8817507,101.6664556,Presint 20
+amenity,restaurant,2.9153667,101.6505726,Hammurabi Restaurant
+shop,hairdresser,2.9154071,101.6500713,New Look
+amenity,parking,2.9087898,101.6504583,
+shop,supermarket,2.9219682,101.6345307,
+amenity,bench,2.9473911,101.6641786,
+amenity,school,2.9261943,101.6302967,"SJK (C) Union, Cyberjaya 赛城联合华文小学"
+shop,books,2.9201572,101.6374834,BookXcess
+amenity,cafe,2.9317058,101.6699873,Lorate Cafe
+tourism,attraction,2.9000331,101.679134,Seri Gemilang Bridge
+amenity,place_of_worship,2.9459904,101.6219939,
+leisure,playground,2.9431836,101.6202864,
+amenity,shelter,2.9431853,101.6198635,
+amenity,school,2.9042994,101.624665,Brainy Bunch International School and Headquarters
+amenity,recycling,2.9396683,101.671955,Pusat Kitar Semula Presint 9
+shop,supermarket,2.924815,101.6362535,A&C Grocery
+office,yes,2.9246349,101.6366759,Solstice Management Office
+amenity,cafe,2.9231671,101.6616164,Monjo Coffee
+shop,supermarket,2.9230147,101.6629489,Redtick Supermarket
+office,yes,2.9235377,101.6372622,Paragon Management Office
+amenity,community_centre,2.9400486,101.6759423,Komplek Kejiranan Presint 9
+tourism,information,2.9321766,101.6806199,Bazaar 8
+amenity,community_centre,2.9395989,101.6754272,Dewan Serbaguna Presint 9
+amenity,restaurant,2.9206692,101.6381612,Padi House Cafeteria and Deli Cafe
+amenity,restaurant,2.9255414,101.6792852,Royale Nasi Kandar
+amenity,clinic,2.9461301,101.6787145,
+amenity,food_court,2.940804632,101.6755325,Food Court Presint 9
+amenity,clinic,2.941711309,101.6762755,Pusat Kesihatan Precinct 9
+leisure,park,2.939324695,101.6727365,
+amenity,parking,2.932450459,101.6700972,
+amenity,university,2.927746146,101.6422866,Universiti Multimedia
+office,company,2.930437085,101.6568215,Telekom Malaysia
+amenity,food_court,2.927864185,101.6430448,Central Food Court(CFC)
+amenity,place_of_worship,2.924275034,101.643021,"Surau Al Hidayah, MMU Cyberjaya"
+amenity,library,2.927588424,101.6416732,
+office,company,2.935601449,101.6580181,
+leisure,playground,2.924544704,101.6437817,
+leisure,track,2.927900527,101.6442077,
+leisure,park,2.93024484,101.6440265,
+amenity,university,2.94024042,101.6624732,LimKokWing University College
+leisure,pitch,2.927302698,101.6450391,
+leisure,pitch,2.932294249,101.6408541,
+leisure,stadium,2.927893963,101.6437357,
+leisure,pitch,2.931869082,101.6401528,
+leisure,pitch,2.927143188,101.6455916,
+leisure,pitch,2.92446496,101.6443878,
+leisure,pitch,2.924367778,101.644854,
+leisure,pitch,2.926303649,101.6447121,
+leisure,pitch,2.928073095,101.6450305,
+leisure,swimming_pool,2.928522646,101.6435299,
+leisure,park,2.938310597,101.6426565,Kelab Komuniti Taman Tasik Cyberjaya
+amenity,townhall,2.933915086,101.6455631,Majlis Perbandaran Sepang
+amenity,fuel,2.919000042,101.6591539,Petronas Cyberjaya
+leisure,golf_course,2.939436267,101.6431958,
+leisure,pitch,2.939618486,101.6453996,
+leisure,swimming_pool,2.938483007,101.6453113,
+leisure,sports_centre,2.924181338,101.639152,Badminton Court
+leisure,pitch,2.9233785,101.6386271,Cyberia Field A
+leisure,park,2.914527221,101.6292677,
+leisure,sports_centre,2.938877651,101.6450605,Kelab Komuniti Taman Tasik Cyberjaya
+office,government,2.896612411,101.6679528,Kementerian Pendidikan
+sport,archery,2.929195684,101.6397989,
+power,substation,2.953278383,101.6479666,
+amenity,college,2.910391907,101.6551499,Kirkby International College
+office,company,2.908259924,101.6558376,Cyberview
+leisure,park,2.91065372,101.6543483,
+office,company,2.909091871,101.6547703,Malaysian Global Innovation and Creativity Centre (MaGIC)
+leisure,pitch,2.910710552,101.6543831,
+leisure,park,2.909269396,101.6554569,Obama Oval
+leisure,park,2.909622335,101.6546934,
+office,company,2.910345052,101.6570926,Dell Global Business Centre
+amenity,parking,2.910345131,101.6546381,
+highway,bus_stop,2.909653383,101.6558076,
+highway,bus_stop,2.911584379,101.658043,
+amenity,parking,2.909143895,101.6553497,
+highway,bus_stop,2.910400925,101.6560193,"Dell, Persiara APEC"
+amenity,parking,2.910158422,101.6579445,Dell Global IT Centre Car Park
+power,substation,2.906760732,101.6547329,
+leisure,park,2.901273674,101.6515668,
+amenity,parking,2.900907373,101.6523761,Alhijrah Big Studio (ABS) Parking
+office,company,2.901163483,101.6520549,KRU Studio
+amenity,parking,2.9121107,101.6547264,Park n Ride
+highway,bus_stop,2.911766641,101.6549749,
+office,company,2.912760157,101.6556636,CSF Computer Exchange 1
+highway,bus_stop,2.912050607,101.6581583,
+amenity,place_of_worship,2.911954383,101.6566794,
+amenity,fire_station,2.912794206,101.6568315,Balai Bomba dan Penyelamat Cyberjaya
+sport,soccer,2.912820582,101.6576339,
+sport,soccer,2.912844559,101.6575044,
+sport,basketball,2.912852199,101.6573373,
+leisure,pitch,2.912426148,101.6580826,
+amenity,fire_station,2.912485784,101.6574911,Balai Bomba dan Penyelamat Cyberjaya
+office,company,2.913892677,101.6561356,HP
+office,company,2.914520349,101.6564893,RBC Dexia Investor Services
+office,company,2.915797799,101.6568927,FSBM Holdings
+leisure,park,2.914147072,101.6583378,
+amenity,university,2.914189255,101.658252,University of Malaya Faculty of Computer Science and Engineering
+amenity,parking,2.913534226,101.6580184,
+office,company,2.918518404,101.6554636,Bank Negara Malaysia Data Centre
+office,company,2.917204213,101.66193,CX2 Computer Exchange
+highway,bus_stop,2.915536384,101.6576007,
+highway,bus_stop,2.9209192,101.6587354,
+amenity,restaurant,2.920894403,101.6592248,Restoran JS Maju
+amenity,restaurant,2.920824155,101.6592252,Nando's
+amenity,restaurant,2.920186104,101.6592086,Taiba Restaurant
+amenity,fast_food,2.920664153,101.6592229,KFC
+amenity,restaurant,2.920593146,101.6592219,BarnHouse Cafe
+amenity,restaurant,2.92043375,101.659222,
+amenity,restaurant,2.920367471,101.659221,Ayam Penyet Ria
+office,company,2.919204327,101.6613292,Impact
+amenity,parking,2.922107343,101.6637434,MCMC Parking
+office,company,2.921627828,101.663681,Malaysian Communication and Multimedia Commission (MCMC)
+highway,bus_stop,2.923674438,101.6613115,
+shop,mall,2.923302418,101.6618169,Shaftsbury Square Shop & Retail
+office,company,2.920347239,101.6568924,Prima Avenue 6
+office,company,2.920390985,101.6574842,Prima Avenue 7
+office,company,2.920359998,101.6580404,Prima Avenue 8
+amenity,restaurant,2.921086916,101.6570251,Padi
+amenity,cafe,2.921082437,101.656891,Old Town White Coffee
+amenity,restaurant,2.921372505,101.6569555,The Walk
+office,company,2.921134028,101.6579928,Prima Avenue 1
+amenity,parking,2.920658157,101.6561133,
+amenity,restaurant,2.921295541,101.6564707,Kitchen Village
+sport,basketball,2.920976586,101.6566342,
+office,company,2.921199173,101.6575069,Prima Avenue 2
+office,company,2.922043961,101.6558528,Fujitsu
+office,company,2.922227941,101.6565148,DHL IT Services (WW)
+office,company,2.922374271,101.6571913,DHL IT Services (EW)
+amenity,parking,2.922358202,101.6576462,DHL Parking
+highway,bus_stop,2.923612393,101.6594572,
+office,company,2.92263623,101.6589781,Malaysia Digital Economy Corporation (MDEC)
+amenity,parking,2.92162139,101.6591757,MDeC Parking
+highway,bus_stop,2.92330985,101.659522,
+leisure,pitch,2.907717759,101.6521711,
+amenity,police,2.907268417,101.6527456,Kompleks Balai Polis Cyberjaya
+leisure,park,2.907508329,101.6529041,
+sport,basketball,2.90773975,101.6524472,
+office,company,2.905812016,101.6527462,Basis Bay
+amenity,parking,2.906039505,101.6524657,
+office,government,2.90942058,101.6503206,HASIL
+highway,bus_stop,2.917012202,101.6501639,
+amenity,parking,2.907147946,101.6483003,
+office,company,2.907988965,101.6482928,HP Global Centre
+sport,basketball,2.911553778,101.6640669,
+sport,tennis,2.911315853,101.663321,
+sport,tennis,2.911344677,101.6634173,
+amenity,school,2.911795719,101.6641911,Sekolah Seri Puteri Cyberjaya
+sport,tennis,2.91161659,101.6633378,
+sport,tennis,2.913605495,101.6645363,
+sport,hockey,2.911849853,101.6638433,
+sport,basketball,2.911934807,101.6641333,
+sport,basketball,2.911599152,101.6642258,
+sport,tennis,2.91158753,101.6632378,
+sport,soccer,2.912028641,101.6647817,
+sport,tennis,2.913558186,101.6644024,
+sport,basketball,2.91189118,101.663989,
+leisure,track,2.911972618,101.6647916,
+leisure,sports_centre,2.909993368,101.6623989,La Vida Clubhouse
+sport,tennis,2.910118087,101.6617797,
+sport,swimming,2.909838601,101.6623405,
+sport,tennis,2.910084436,101.6619089,
+leisure,park,2.911845062,101.665748,
+highway,bus_stop,2.909631494,101.6653089,
+leisure,park,2.907931915,101.6646428,
+highway,bus_stop,2.909933249,101.6653796,
+leisure,park,2.912010569,101.6682118,
+sport,swimming,2.911707678,101.6683337,
+leisure,park,2.913486669,101.6687242,
+leisure,park,2.913018537,101.6696613,
+leisure,park,2.909940767,101.6686918,
+leisure,park,2.915287526,101.6704582,
+leisure,park,2.918725323,101.672171,
+highway,bus_stop,2.917816592,101.6684362,
+leisure,park,2.924153789,101.6721102,
+highway,bus_stop,2.921486934,101.6666307,
+highway,bus_stop,2.923768374,101.6634322,
+highway,bus_stop,2.920454333,101.6668785,
+sport,tennis,2.923197017,101.6678439,
+leisure,park,2.924971425,101.6678198,
+tourism,hotel,2.9239385,101.66726,Cyberview Lodge Resort and Spa
+amenity,restaurant,2.919356244,101.6663555,Nyonya Valley Restaurant
+sport,swimming,2.919076699,101.6662915,
+office,company,2.920624319,101.6551157,Malaysia Industry Group For High Technology (MiGHT)
+highway,bus_stop,2.920797166,101.6556483,
+highway,bus_stop,2.920730545,101.6554601,
+office,company,2.9199951,101.6544477,JPJ IT Centre
+office,company,2.92153798,101.6546123,HP
+office,company,2.921281945,101.6539055,BMW Malaysia
+highway,bus_stop,2.922001701,101.6541978,
+highway,bus_stop,2.922291063,101.6539904,
+office,company,2.924102484,101.6588502,Enterprise Building 3
+amenity,parking,2.924117855,101.6588189,
+office,company,2.925028077,101.6619695,Block 2300 Century Square
+highway,bus_stop,2.923999911,101.661277,
+office,company,2.924460258,101.661829,T-Systems
+office,company,2.924466596,101.6636066,Wisma Shell
+office,company,2.925741663,101.6611832,Block 2310 Century Square
+office,company,2.925616952,101.6606289,Block 2320 Century Square
+amenity,parking,2.924644875,101.6636888,
+office,company,2.924985972,101.6636218,Bangunan Mustapha Kamal
+amenity,parking,2.926043654,101.663205,
+office,company,2.926031701,101.6630586,SME Technopreneur Centre
+sport,soccer,2.927622129,101.6610857,
+sport,basketball,2.927162365,101.6612639,
+leisure,sports_centre,2.927714522,101.6608803,Sports Arena Cyberjaya
+sport,soccer,2.927933911,101.6612033,
+sport,soccer,2.92780393,101.6606031,
+sport,tennis,2.927954114,101.6610453,
+amenity,parking,2.926826397,101.6607848,Sports Arena Cyberjaya Parking
+amenity,parking,2.927391249,101.6623568,
+office,company,2.928816583,101.6608808,City Command Centre
+highway,bus_stop,2.922907373,101.6564563,
+amenity,parking,2.923402469,101.6569384,
+office,company,2.923354788,101.6559919,Enterprise Building 1
+highway,bus_stop,2.925062155,101.6577343,
+power,substation,2.923580323,101.6574391,
+office,company,2.923058901,101.6541424,HSBC
+highway,bus_stop,2.920898381,101.6583997,
+highway,bus_stop,2.922499616,101.6562192,
+office,company,2.923780702,101.6543654,IBM
+leisure,park,2.92831494,101.6585995,
+office,company,2.928498718,101.6562009,Ericsson
+amenity,parking,2.929037363,101.6558207,
+amenity,parking,2.925890016,101.6539998,
+office,company,2.925542331,101.6536919,Emerio Building
+office,company,2.927321891,101.6539166,Wisma Shell-U Village
+amenity,college,2.929709692,101.6543491,University Malaysia of Computer Science & Engineering (UNIMY)
+amenity,parking,2.929616542,101.6538933,
+amenity,parking,2.930656761,101.6697054,
+amenity,fuel,2.940291934,101.6736273,Petronas
+amenity,bus_station,2.937709644,101.6732692,
+amenity,parking,2.924985972,101.6636218,
+amenity,parking,2.92602378,101.6630047,
+amenity,parking,2.924466411,101.6636072,
+amenity,parking,2.927163126,101.6624502,
+amenity,parking,2.9240546,101.6503174,
+sport,soccer,2.918074182,101.6502476,
+highway,bus_stop,2.921185912,101.6507764,
+amenity,college,2.919462125,101.6511756,Cyberjaya University College of Medical Sciences (CUCMS)
+shop,mall,2.920539549,101.6508801,The Street Mall
+amenity,restaurant,2.920422626,101.6522712,Bus Terminal Food Court
+highway,bus_stop,2.921535421,101.6508546,
+amenity,bus_station,2.92080081,101.6519858,Cyberjaya Bus Station
+leisure,park,2.922757268,101.64939,Cyberjaya Mini Park
+sport,tennis,2.925118283,101.6474785,
+sport,swimming,2.92497064,101.6473597,
+sport,soccer,2.926490202,101.647162,
+amenity,school,2.926871513,101.6473623,ELC International School
+sport,basketball,2.927154712,101.6471541,
+sport,swimming,2.926658232,101.6476174,
+sport,swimming,2.92691607,101.6474744,
+sport,swimming,2.92055116,101.6480222,
+highway,bus_stop,2.92233959,101.6408368,
+sport,swimming,2.920475557,101.6464516,
+highway,bus_stop,2.920574127,101.6466866,
+amenity,place_of_worship,2.922068426,101.6422945,
+power,substation,2.920850539,101.6421896,
+amenity,parking,2.920317152,101.641288,
+office,company,2.920397182,101.6417284,TM Cyberjaya
+sport,soccer,2.917830099,101.63866,
+sport,basketball,2.918126346,101.6394781,
+sport,basketball,2.918568723,101.6382992,
+sport,basketball,2.919454361,101.6381647,
+amenity,school,2.919279497,101.6384612,SK Cyberjaya
+amenity,school,2.918952779,101.6394694,SMK Cyberjaya
+amenity,toilets,2.907742606,101.6102918,
+emergency,designated,2.933148924,101.6737175,
+shop,mall,2.922136492,101.6510562,DPulze Shopping Centre
+tourism,hotel,2.900042693,101.6696033,Pullman Putrajaya Lakeside
+leisure,pool,2.899805022,101.6700431,
+leisure,pitch,2.927964553,101.6442026,MMU Stadium
+leisure,swimming_pool,2.924562897,101.6393248,Cyberia Main Swimming Pool
+amenity,parking,2.921572423,101.6410935,Visitor Car Park
+leisure,pitch,2.923387607,101.638793,Cyberia Tennis Court
+amenity,parking,2.915833235,101.640916,
+power,line,2.926402115,101.6333051,
+amenity,fuel,2.936056934,101.6732426,Petronas Precint 9
+amenity,parking,2.927794983,101.6724711,
+amenity,parking,2.926103613,101.6750928,
+amenity,parking,2.928302093,101.6750941,
+amenity,parking,2.930704751,101.6720574,
+amenity,parking,2.921747811,101.6340488,
+amenity,parking,2.921833803,101.6349633,
+sport,tennis,2.922838081,101.6346814,
+leisure,swimming_pool,2.922842872,101.6343885,
+sport,basketball,2.922890702,101.6350663,
+leisure,pitch,2.9369523,101.6142309,
+leisure,pitch,2.93683865,101.6105753,
+amenity,hospital,2.929546273,101.6740648,Hospital Putrajaya
+amenity,hospital,2.926888965,101.6738202,Institut Kanser Negara
+amenity,food_court,2.903764183,101.6154435,
+leisure,swimming_pool,2.922778854,101.638211,Cyberia Tower A Swimming Pool
+leisure,swimming_pool,2.925762561,101.6382261,Cyberia Tower C Swimming Pool
+leisure,swimming_pool,2.92430873,101.6387302,Cyberia Tower B Swimming Pool
+leisure,swimming_pool,2.924629606,101.6394023,
+amenity,parking,2.923729364,101.638202,
+amenity,parking,2.924873849,101.6382097,
+leisure,pitch,2.925228064,101.6386301,
+leisure,pitch,2.925233285,101.6387901,
+power,generator,2.924578746,101.640079,
+leisure,swimming_pool,2.939324377,101.6632451,
+leisure,park,2.886523728,101.6679243,Taman Cabaran
+amenity,parking,2.896627348,101.6671218,
+office,government,2.898080546,101.6683519,Kementerian Pelancongan & Kebudayaan
+office,ngo,2.912734448,101.6738389,Yayasan Kepimpinan Perdana
+amenity,place_of_worship,2.930334544,101.6790991,Surau Putra Al-Amin
+amenity,fire_station,2.932187333,101.6738624,Ibu Pejabat Jabatan Bomba & Penyelamat
+amenity,police,2.930979782,101.675637,IPD Putrajaya
+leisure,sports_centre,2.903620711,101.6683741,Kompleks Sukan Air Putrajaya Presint 6
+leisure,fitness_centre,2.902008134,101.6666173,Putrajaya Racing Car
+leisure,park,2.897175238,101.6792581,Taman Seri Empangan
+leisure,park,2.899222753,101.6783742,Taman Seri Empangan
+amenity,parking_space,2.926917477,101.6445747,
+amenity,parking_space,2.92693234,101.6451623,
+amenity,parking,2.938912952,101.6802087,
+leisure,pitch,2.94255921,101.678671,
+amenity,parking,2.930423977,101.6414061,
+amenity,parking,2.936445599,101.6586538,
+amenity,parking,2.93843112,101.6618813,
+amenity,parking,2.939785772,101.6637552,
+amenity,parking,2.941154496,101.6626694,
+amenity,parking,2.941293333,101.6626805,
+amenity,parking,2.93909337,101.6623747,
+amenity,parking,2.927936568,101.6435078,
+amenity,parking,2.934693868,101.6460445,
+amenity,parking,2.934680296,101.6451621,
+amenity,parking,2.934491577,101.64507,
+amenity,parking,2.934557362,101.6453239,
+amenity,parking,2.924396474,101.6303226,
+amenity,school,2.949438616,101.6195515,
+amenity,parking,2.909888912,101.6508555,
+amenity,parking,2.909752155,101.6508015,
+amenity,parking,2.909607473,101.6507747,
+amenity,parking,2.909458438,101.650827,
+amenity,parking,2.9095827,101.6504736,
+amenity,parking,2.90890975,101.650174,
+amenity,parking,2.9088348,101.65076,
+amenity,parking,2.908706149,101.6507468,
+amenity,parking,2.9085509,101.6506312,
+amenity,parking,2.908403901,101.6506431,
+amenity,parking,2.908265174,101.6506586,
+amenity,parking,2.908116525,101.6506586,
+amenity,parking,2.907971551,101.6506877,
+amenity,place_of_worship,2.932443647,101.6480387,
+leisure,pitch,2.940421264,101.6207804,
+amenity,place_of_worship,2.943979615,101.6097704,Masjid Taman Putra Perdana
+shop,mall,2.92225458,101.634797,
+amenity,parking,2.922215199,101.6334332,
+amenity,parking,2.936642978,101.6533177,
+amenity,parking,2.936458484,101.6532796,
+amenity,place_of_worship,2.904590475,101.6149898,
+amenity,toilets,2.904358691,101.6151769,
+amenity,parking,2.916541701,101.6399722,
+power,line,2.904280862,101.6802582,
+power,line,2.90425413,101.6800165,
+leisure,park,2.903379564,101.6805397,
+leisure,park,2.903515901,101.6803192,
+leisure,park,2.903627524,101.6801994,
+leisure,park,2.903928062,101.6801512,
+power,line,2.903443168,101.6801359,
+power,line,2.903456095,101.6801476,
+power,line,2.903467833,101.6801578,
+power,line,2.903598702,101.6801422,
+power,line,2.904220848,101.6802859,
+power,line,2.903454233,101.6802967,
+leisure,park,2.904151393,101.6805132,
+power,line,2.904202013,101.6804124,
+leisure,park,2.904006047,101.6804638,
+power,line,2.903698681,101.6803295,
+power,line,2.903694764,101.6803841,
+power,line,2.894520345,101.6769691,
+power,line,2.894360289,101.6774194,
+power,line,2.893817574,101.6769695,
+power,line,2.893720567,101.6766234,
+power,line,2.8936761,101.6766838,
+power,line,2.893636733,101.6767478,
+power,line,2.8936032,101.6768149,
+power,line,2.8935583,101.6773968,
+power,line,2.893577467,101.6774678,
+power,line,2.893377958,101.6775033,
+power,line,2.893514411,101.6774487,
+power,line,2.893632861,101.6765017,
+power,line,2.893975398,101.6767933,
+power,line,2.89382213,101.6773378,
+power,line,2.89361911,101.6769033,
+power,line,2.893813131,101.6771084,
+power,line,2.893670614,101.6768049,
+leisure,park,2.893864799,101.6769885,
+power,line,2.901634797,101.6709014,
+power,line,2.901874909,101.6709413,
+power,line,2.901563088,101.6711118,
+power,line,2.901308418,101.6707618,
+power,line,2.901309614,101.6710962,
+power,line,2.901531667,101.6712623,
+power,line,2.901355233,101.6713249,
+power,line,2.901058749,101.671084,
+power,line,2.901034767,101.6712075,
+power,line,2.9015151,101.6711111,
+power,line,2.901241564,101.6711665,
+power,line,2.9012435,101.6713128,
+power,line,2.901132933,101.6712749,
+power,line,2.901433065,101.6703482,
+power,line,2.901790014,101.6709152,
+power,line,2.901806567,101.6705881,
+power,line,2.901618467,101.6703645,
+power,line,2.901506067,101.6703076,
+power,line,2.901288656,101.6701567,
+power,line,2.901102642,101.6702036,
+power,line,2.901376367,101.670279,
+power,line,2.901345567,101.6702777,
+power,line,2.901462033,101.6702931,
+power,line,2.901210033,101.6702897,
+power,line,2.901249133,101.6702807,
+power,line,2.901769733,101.6703547,
+power,line,2.901579473,101.6702228,
+power,line,2.901438556,101.6701786,
+power,line,2.901217233,101.6708886,
+power,line,2.901373355,101.670636,
+power,line,2.901290353,101.6709052,
+power,line,2.90120192,101.6707305,
+power,line,2.901457464,101.6708076,
+power,line,2.901357804,101.6707773,
+power,line,2.901060419,101.6707219,
+amenity,fuel,2.910513282,101.6091929,Petronas
+shop,mall,2.925577511,101.6502726,Centrus Mall
+amenity,place_of_worship,2.936246983,101.6193019,Surau Amanputra
+amenity,school,2.943947306,101.6215705,
+leisure,pitch,2.94301465,101.6200563,
+leisure,pitch,2.942929759,101.6206783,
+leisure,pitch,2.9428596,101.6207768,
+amenity,school,2.94054955,101.62054,
+amenity,parking,2.932500914,101.6723504,
+amenity,school,2.950045202,101.6775444,
+office,government,2.932374022,101.6760295,Suruhanjaya Pencegah Rasuah Malaysia
+amenity,school,2.939688256,101.610974,
+amenity,parking,2.923275321,101.6333576,
+leisure,park,2.92052708,101.6364203,
